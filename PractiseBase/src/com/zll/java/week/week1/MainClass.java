@@ -3,7 +3,7 @@ package com.panpanzeng15.java.week1;
 /**
  * @ClassName MainClass
  * @Description TODO
- * @Author 南风有你
+ * @Author 86180
  * @Date 2020/10/9
  **/
 public class MainClass{
